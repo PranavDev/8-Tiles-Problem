@@ -13,7 +13,7 @@ public class TileZ
 	static int pointer = 0;
 	static int Best_Tile;
 	static int f_dash_val = 1000;
-	static int Memory[] = new int[1000000];
+	static int Memory[] = new int[1000];
 	
 	
 	public static void displayState(int Arr[])
